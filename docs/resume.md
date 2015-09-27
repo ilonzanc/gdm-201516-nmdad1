@@ -14,8 +14,8 @@ Softwarekennis
 --------------
 Contactinformatie
 -----------------
-###email  
+###email
 ilona.zancaner@student.arteveldehs.be
 
-###gsm  
+###gsm
 0498 05 50 32
