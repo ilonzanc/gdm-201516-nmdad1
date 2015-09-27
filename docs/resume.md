@@ -14,6 +14,8 @@ Softwarekennis
 --------------
 Contactinformatie
 -----------------
-ilona.zancaner@student.arteveldehs.be  
-[facebook](https://www.facebook.com/RyubiiZ)  
-[twitter](https://twitter.com/ryubii_z)
+###email  
+ilona.zancaner@student.arteveldehs.be
+
+###gsm  
+0498 05 50 32
