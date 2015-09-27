@@ -16,6 +16,8 @@ Kennis webtechnologieën
 -----------------------
 Softwarekennis
 --------------
+|Software|score|
+|---------------|----|
 |Adobe Photoshop|B|
 |Adobe Illustrator|B|
 |Adobe InDesign|A|
