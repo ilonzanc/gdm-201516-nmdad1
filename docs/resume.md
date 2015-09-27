@@ -19,8 +19,8 @@ Kennis webtechnologieën
 |code|score|
 |---------------|----|
 |HTML & CSS|A|
-|Javascript|D|
-|jQuery|C|
+|Javascript|C|
+|jQuery|B|
 Softwarekennis
 --------------
 |software|score|
