@@ -14,6 +14,6 @@ Softwarekennis
 --------------
 Contactinformatie
 -----------------
-ilona.zancaner@student.arteveldehs.be
+ilona.zancaner@student.arteveldehs.be  
 [facebook](https://www.facebook.com/RyubiiZ)  
 [twitter](https://twitter.com/ryubii_z)
