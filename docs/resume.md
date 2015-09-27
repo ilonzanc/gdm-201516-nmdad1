@@ -9,7 +9,7 @@ Portfolio
 ###Animatie & video
 [![animate_my_games_thumbnail](http://puu.sh/kpTo9/85df52d9b8.jpg)](https://vimeo.com/129289270 "Animate my games")
 ###Webdesign
-[![Novafest](http://puu.sh/kpTPa/1b18604a11.jpg)](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/ilonzanc/webdesign2/imaginaryfest/site/index.html)
+[![Novafest](http://puu.sh/kpTTT/0a8b54f895.jpg)](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/ilonzanc/webdesign2/imaginaryfest/site/index.html)
 Werkervaring
 ------------
 Kennis webtechnologieën
