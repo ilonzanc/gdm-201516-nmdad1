@@ -12,11 +12,13 @@ Portfolio
 [![Novafest](http://puu.sh/kpTTT/0a8b54f895.jpg)](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/ilonzanc/webdesign2/imaginaryfest/site/index.html)
 Werkervaring
 ------------
+###Carrefour (2012-2015)
+Bediende
 Kennis webtechnologieën
 -----------------------
 Softwarekennis
 --------------
-|Software|score|
+|software|score|
 |---------------|----|
 |Adobe Photoshop|B|
 |Adobe Illustrator|B|
