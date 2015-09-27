@@ -16,6 +16,12 @@ Kennis webtechnologieën
 -----------------------
 Softwarekennis
 --------------
+|Adobe Photoshop|B|
+|Adobe Illustrator|B|
+|Adobe InDesign|A|
+|Adobe Premiere Pro|B|
+|Adobe After Effects|C|
+
 Contactinformatie
 -----------------
 ###email
