@@ -2,13 +2,12 @@ Ilona Zancaner
 ==============
 Biografie
 ---------
-**Geboortedatum:** 14 maart 1996  
-**Woonplaats:** Mariakerke
+Mijn naam is Ilona Zancaner, geboren te Gent op 14 maart 1996. Ik studeer multimediaproductie aan Artevelde Hogeschool in Mariakerke. Hiervoor heb ik 3 jaar multimedia gestudeerd. Mijn hobbies zijn comics lezen, anime en series bekijken en cosplay.
 Portfolio
 ---------
-###Animatie & video
+####Animatie & video
 [![animate_my_games_thumbnail](http://puu.sh/kpTo9/85df52d9b8.jpg)](https://vimeo.com/129289270 "Animate my games")
-###Webdesign
+####Webdesign
 [![Novafest](http://puu.sh/kpTTT/0a8b54f895.jpg)](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/ilonzanc/webdesign2/imaginaryfest/site/index.html)
 Werkervaring
 ------------
