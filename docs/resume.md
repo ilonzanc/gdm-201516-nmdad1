@@ -16,6 +16,11 @@ Werkervaring
 Bediende
 Kennis webtechnologieën
 -----------------------
+|code|score|
+|---------------|----|
+|HTML & CSS|A|
+|Javascript|D|
+|jQuery|C|
 Softwarekennis
 --------------
 |software|score|
