@@ -2,6 +2,7 @@ In deze repository komen de opdrachten en taken die worden gemaakt voor het vak 
 ###Documenten
 * [docs](/docs/)
 	* [resume](/docs/resume.md/)
+	
 ###Auteur
 Ilona Zancaner
 ###Copyright
